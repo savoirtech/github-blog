@@ -33,7 +33,7 @@ We chose it before deciding to use GitHub to host the articles.
 Finding the conversion from Ascii Doctor to GitHub Markdown was a welcome find,
 eliminating the concerns with attempting to embed HTML in GitHub Markdown pages.
 
-*WARNING* when converting to GitHub markdown, the title (top-level heading - `=`) is dropped by the `pandoc` conversion.
+*WARNING* when converting to GitHub markdown, the title (top-level heading `=`) is dropped by the `pandoc` conversion.
 To work-around this issue, I recommend avoiding the top-level heading and starting with a second-level heading `==`.
 
 === Convert to GitHub Markdown
